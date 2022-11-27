@@ -1,32 +1,3 @@
-This file and its pieces is to finish a distro of Linux. It was made with MX but other lists and distros can be used.
-
-
-  ___ | |_   _ _ __ ___  _ __  _   _ ___  / | / | / | |___ \ 
- / _ \| | | | | '_ ` _ \| '_ \| | | / __| | | | | | |   __) |
-| (_) | | |_| | | | | | | |_) | |_| \__ \ | | | | | |  / __/ 
- \___/|_|\__, |_| |_| |_| .__/ \__,_|___/ |_| |_| |_| |_____|
-         |___/          |_|                                  
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMM   michael@discovery 
-MMMMMMMMMMNs..yMMMMMMMMMMMMMm: +NMMMMMMM   ----------------- 
-MMMMMMMMMN+    :mMMMMMMMMMNo` -dMMMMMMMM   OS: MX x86_64 
-MMMMMMMMMMMs.   `oNMMMMMMh- `sNMMMMMMMMM   Host: 030254U ThinkPad Edge 
-MMMMMMMMMMMMN/    -hMMMN+  :dMMMMMMMMMMM   Kernel: 5.10.0-19-amd64 
-MMMMMMMMMMMMMMh-    +ms. .sMMMMMMMMMMMMM   Uptime: 2 hours, 28 mins 
-MMMMMMMMMMMMMMMN+`   `  +NMMMMMMMMMMMMMM   Packages: 2673 (dpkg), 3 (snap) 
-MMMMMMMMMMMMMMNMMd:    .dMMMMMMMMMMMMMMM   Shell: bash 5.1.4 
-MMMMMMMMMMMMm/-hMd-     `sNMMMMMMMMMMMMM   Resolution: 1366x768 
-MMMMMMMMMMNo`   -` :h/    -dMMMMMMMMMMMM   DE: Plasma 5.20.5 
-MMMMMMMMMd:       /NMMh-   `+NMMMMMMMMMM   WM: KWin 
-MMMMMMMNo`         :mMMN+`   `-hMMMMMMMM   Theme: Breeze [GTK2/3] 
-MMMMMMh.            `oNMMd:    `/mMMMMMM   Icons: Papirus-Dark [GTK2/3] 
-MMMMm/                -hMd-      `sNMMMM   Terminal: konsole 
-MMNs`                   -          :dMMM   Terminal Font: Hack 10 
-Mm:                                 `oMM   CPU: AMD Turion II P560 (2) @ 2.500GHz 
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   GPU: AMD ATI Mobility Radeon HD 4225/4250 
-                                           Memory: 2558MiB / 3678MiB 
-copy of my neofetch above
-
-TL;DR
 
 
 This for the most part made of my own files.
